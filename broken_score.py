@@ -8,7 +8,7 @@ def main():
     result = determine_result(score)
     print(result)
 
-#  the correct code should be, for example, if you input 92, the program will output two results!
+
 def determine_result(score):
     if score >= 90:
         return "Excellent"

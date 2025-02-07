@@ -26,7 +26,7 @@ def print_asterisks(password):
 
 
 def main():
-    min_length = 8  # You can change this variable to set a different minimum length
+    min_length = 8
     password = get_password(min_length)
     print_asterisks(password)
 

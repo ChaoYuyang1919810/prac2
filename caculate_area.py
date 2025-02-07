@@ -6,7 +6,7 @@ displays the result using the given height and width."""
 #
 def main():
     """Main function that orchestrates the program."""
-    # Example input values for the height and width
+
     height = 5
     width = 10
 
